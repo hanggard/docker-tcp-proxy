@@ -1,4 +1,4 @@
-FROM haproxy:1.6-alpine
+FROM haproxy:2.1-alpine
 MAINTAINER Micheal Waltz <mwaltz@demandbase.com>
 
 # Copy HAproxy configuration
